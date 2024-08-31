@@ -1,4 +1,4 @@
-const weight =109;
+const weight =70;
 const height = 1.8;
 
 let bmi = weight/ (height)**2;
